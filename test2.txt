@@ -3,3 +3,4 @@ git öğreniyorum
 git pratik yapıyorum
 git öğrenmek cok güzel
 git hakkında deneme
+Bu değişikliği geri alacağız.
