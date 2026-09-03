@@ -2,3 +2,4 @@ merhaba git
 git öğreniyorum
 git pratik yapıyorum
 git öğrenmek cok güzel
+git hakkında deneme
