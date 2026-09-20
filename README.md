@@ -10,3 +10,5 @@ Gelistirme üzerinde değişiklik
 
 push denemesi
 fetch ve pull denemesi
+
+Bu değişiklik GitHub üzerinden yapıldı.
