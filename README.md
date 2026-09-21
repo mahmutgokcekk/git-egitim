@@ -12,3 +12,4 @@ push denemesi
 fetch ve pull denemesi
 
 Bu değişiklik GitHub üzerinden yapıldı.
+bu degisiklik push denemesidir
