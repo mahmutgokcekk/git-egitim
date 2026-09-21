@@ -13,3 +13,4 @@ fetch ve pull denemesi
 
 Bu değişiklik GitHub üzerinden yapıldı.
 bu degisiklik push denemesidir
+bu degisikligi ben yaptim.
