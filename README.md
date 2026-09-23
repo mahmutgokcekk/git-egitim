@@ -18,3 +18,4 @@ feature branch ile çalışıyorum
 stash denemesi
 apply denemesi
 main - yeni degisiklik
+main uzerinde degisiklik
