@@ -15,7 +15,6 @@ Bu değişiklik GitHub üzerinden yapıldı.
 bu degisiklik push denemesidir
 bu degisikligi ben yaptim.
 feature branch ile çalışıyorum
-<<<<<<< HEAD
 stash denemesi
 apply denemesi
 main - yeni degisiklik
@@ -23,5 +22,6 @@ main - yeni degisiklik
 main uzerinde degisiklik
 =======
 rebase - feature 1 
+rebase - feature 2 
 
 >>>>>>> 51ca9e2 (feature 1 eklendi)
