@@ -18,10 +18,13 @@ feature branch ile çalışıyorum
 stash denemesi
 apply denemesi
 main - yeni degisiklik
-<<<<<<< HEAD
+
 main uzerinde degisiklik
-=======
+
 rebase - feature 1 
 rebase - feature 2 
 
->>>>>>> 51ca9e2 (feature 1 eklendi)
+
+
+force-with-lease denemesi
+
