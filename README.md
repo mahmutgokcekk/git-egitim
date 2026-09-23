@@ -20,3 +20,4 @@ apply denemesi
 main - yeni degisiklik
 main uzerinde degisiklik
 rebase lab - main degisikligi
+main yeni degisiklik
