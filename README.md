@@ -15,7 +15,13 @@ Bu değişiklik GitHub üzerinden yapıldı.
 bu degisiklik push denemesidir
 bu degisikligi ben yaptim.
 feature branch ile çalışıyorum
+<<<<<<< HEAD
 stash denemesi
 apply denemesi
 main - yeni degisiklik
+<<<<<<< HEAD
 main uzerinde degisiklik
+=======
+rebase - feature 1 
+
+>>>>>>> 51ca9e2 (feature 1 eklendi)
