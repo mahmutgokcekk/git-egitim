@@ -38,3 +38,4 @@ edit sirasinda yeni icerik
 squash 1
 squash 2
 ana ozellik
+commit mesaji kotu
