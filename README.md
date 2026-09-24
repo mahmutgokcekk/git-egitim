@@ -27,3 +27,11 @@ interactive rebase 3
 Reword testi
 interactive 1
 interactive 2
+
+interactive 3
+interactive 4
+
+interactive 5
+
+edit yapilacak icerik
+edit sirasinda yeni icerik
