@@ -39,3 +39,6 @@ squash 1
 squash 2
 ana ozellik
 commit mesaji kotu
+kodunda hata var
+c ile birlestir
+kucuk duzeltme
