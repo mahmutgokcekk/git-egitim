@@ -26,3 +26,4 @@ interactive rebase 2
 interactive rebase 3
 Reword testi
 interactive 1
+interactive 2
