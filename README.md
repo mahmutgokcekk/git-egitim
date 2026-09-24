@@ -25,3 +25,20 @@ interactive rebase 1
 interactive rebase 2
 interactive rebase 3
 Reword testi
+interactive 1
+interactive 2
+
+interactive 3
+interactive 4
+
+interactive 5
+
+edit yapilacak icerik
+edit sirasinda yeni icerik
+squash 1
+squash 2
+ana ozellik
+commit mesaji kotu
+kodunda hata var
+c ile birlestir
+kucuk duzeltme
