@@ -35,3 +35,5 @@ interactive 5
 
 edit yapilacak icerik
 edit sirasinda yeni icerik
+squash 1
+squash 2
